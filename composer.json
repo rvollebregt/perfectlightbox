@@ -19,8 +19,8 @@
 		}
 	],
 	"require": {
-		"php": ">=7.0.0",
-		"typo3/cms-core": "^8.7||^9.5"
+		"php": ">=7.2.0",
+		"typo3/cms-core": "^9.5 || ^10.3"
 	},
 	"replace": {
 		"typo3-ter/perfectlightbox": "self.version"
